@@ -15,7 +15,7 @@
     'depends': ['base', 'contacts', 'sale', 'stock'],
     'price': 15.0,
     'currency': 'EUR',
-
+    'license': 'LGPL-3',
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
