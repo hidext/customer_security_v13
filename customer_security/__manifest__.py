@@ -22,6 +22,7 @@
         'security/customer_person.xml',
         # 'views/views.xml',
     ],
+    'images': ['static/description/userwise.png'],
     # only loaded in demonstration mode
     'demo': [
         'demo/demo.xml',
